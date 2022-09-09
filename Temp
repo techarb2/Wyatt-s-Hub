@@ -4,5 +4,8 @@ loadstring(game:HttpGet("https://pastebin.com/raw/pQJ0sdBJ"))()
 
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/A%20Heros%20Destiny"))()
 
---loadstring(game:HttpGet("https://pastebin.com/raw/pcz6i5Y1", true))()
 
+--[[ loadstring(game:HttpGet("https://raw.githubusercontent.com/LivingTempest/Wyatt-s-Hub/main/Temp"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/pcz6i5Y1", true))()
+
+]]
