@@ -3,4 +3,4 @@
 krnl.vip
 wearedevs.net
 
-#https://magupp.wixsite.com/magup/maghub
+Click for better scripts:https://magupp.wixsite.com/magup/maghub
