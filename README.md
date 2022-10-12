@@ -2,3 +2,5 @@
 
 krnl.vip
 wearedevs.net
+
+#https://magupp.wixsite.com/magup/maghub
